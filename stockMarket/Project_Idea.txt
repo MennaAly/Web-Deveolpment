@@ -1,0 +1,14 @@
+Project Idea:
+The system will track certain stock market prices and the interact between the user and those assets
+End points:
+-----Assets------
+add asset
+update asset price
+list assets
+get asset
+
+-----User------
+signup
+login
+logout
+

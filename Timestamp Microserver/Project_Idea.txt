@@ -1,0 +1,4 @@
+it's an API used for getting the unix and utc of the date 
+Endpoints:
+GET /api/timestamp/:date_string?
+
